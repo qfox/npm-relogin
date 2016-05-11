@@ -6,6 +6,8 @@ Especially useful when you have few scopes in NPM.
 
 ## How it works
 
+<img src="https://cloud.githubusercontent.com/assets/2225579/15159126/a4ccfaf8-16fb-11e6-8f74-b7e05b9ca58b.gif" alt="how-it-works" width="500" />
+
 Tool won't store password. Even encrypted or whatever.
 
 Instead of storing raw password tool will get auth token from NPM and store it to configuration file for futher usage.
